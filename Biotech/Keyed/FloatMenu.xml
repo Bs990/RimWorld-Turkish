@@ -6,15 +6,15 @@
   <!-- EN: Not enough bandwidth -->
   <NotEnoughBandwidth>Yeterli bant genişliği yok</NotEnoughBandwidth>
   <!-- EN: Take control of {0} -->
-  <ControlMech>{0} kontrolünü elinize alın</ControlMech>
+  <ControlMech>{0} Kontrolünü elinize alın</ControlMech>
   <!-- EN: Cannot control {0} -->
-  <CannotControlMech>{0} kontrol edilemiyor</CannotControlMech>
+  <CannotControlMech>{0} Kontrol edilemiyor</CannotControlMech>
   <!-- EN: Already controlled by {0} -->
-  <CannotControlMechAlreadyControlled>{0} tarafından kontrol ediliyo</CannotControlMechAlreadyControlled>
+  <CannotControlMechAlreadyControlled>{0} Tarafından kontrol ediliyor</CannotControlMechAlreadyControlled>
   <!-- EN: Not enough bandwidth -->
   <CannotControlMechNotEnoughBandwidth>Yeterli bant genişliği yok</CannotControlMechNotEnoughBandwidth>
   <!-- EN: Never controllable -->
-  <CannotControlMechNeverControllable>asla kontrol edilemez</CannotControlMechNeverControllable>
+  <CannotControlMechNeverControllable>Asla kontrol edilemez</CannotControlMechNeverControllable>
   <!-- EN: Cannot disconnect from {0} -->
   <CannotDisconnectMech>{0} ile bağlantı kesilemiyor</CannotDisconnectMech>
   <!-- EN: Disconnect from {0} -->
@@ -24,30 +24,30 @@
   <!-- EN: Cannot permanently disassemble {0} -->
   <CannotDisassembleMech>{0} kalıcı olarak sökülemez</CannotDisassembleMech>
   <!-- EN: Must be overseer -->
-  <MustBeOverseer>gözetmen olmalı</MustBeOverseer>
+  <MustBeOverseer>Gözetmen olmalı</MustBeOverseer>
   <!-- EN: Extract -->
   <Extract>Çıkar</Extract>
   <!-- EN: Out of command range -->
-  <OutOfCommandRange>Komut aralığı dışında</OutOfCommandRange>
+  <OutOfCommandRange>Komut menzili dışında</OutOfCommandRange>
   <!-- EN: Cannot go here -->
-  <CannotGoOutOfRange>buraya gidemez</CannotGoOutOfRange>
+  <CannotGoOutOfRange>Buraya gidemez</CannotGoOutOfRange>
   <!-- EN: Must be emptied -->
-  <WasteContainerFull>boşaltılması gerekir</WasteContainerFull>
+  <WasteContainerFull>Boşaltılması gerekir</WasteContainerFull>
   <!-- EN: Cannot repair mech {0} -->
-  <CannotRepairMech>{0} makinesi onarılamıyor</CannotRepairMech>
+  <CannotRepairMech>{0} mekası onarılamıyor</CannotRepairMech>
 
   <!-- EN: Extract xenogerm from {PAWN_nameDef} -->
-  <ExtractXenogermFrom>{PAWN_nameDef}'den zenogerm ayıklayın</ExtractXenogermFrom>
+  <ExtractXenogermFrom>{PAWN_nameDef} kolonistinden zenogerm ayıkla</ExtractXenogermFrom>
   <!-- EN: Enter {0_labelShort} -->
   <EnterBuilding>{0_labelShort} girin</EnterBuilding>
   <!-- EN: {PAWN_nameDef} has no genes -->
-  <PawnHasNoGenes>{PAWN_nameDef} geni yok</PawnHasNoGenes>
+  <PawnHasNoGenes>{PAWN_nameDef} gen taşımıyor</PawnHasNoGenes>
   <!-- EN: {PAWN_nameDef} has no extractable genes. -->
   <PawnHasNoNonArchiteGenes>{PAWN_nameDef}, çıkarılabilir genlere sahip değil.</PawnHasNoNonArchiteGenes>
   <!-- EN: In xenogermination coma -->
-  <InXenogerminationComa>zenogerminasyon komada</InXenogerminationComa>
+  <InXenogerminationComa>Zenogerminasyon komasında</InXenogerminationComa>
   <!-- EN: Occupied -->
-  <Occupied>İşgal edilmiş</Occupied>
+  <Occupied>Dolu</Occupied>
   <!-- EN: {PAWN_nameDef} was ejected from a growth vat -->
   <OccupantEjectedFromGrowthVat>{PAWN_nameDef} küvözden çıkarıldı</OccupantEjectedFromGrowthVat>
   <!-- EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
@@ -85,32 +85,32 @@
   <!-- EN: Scanner not initiated -->
   <SubcoreScannerNotInit>Tarayıcı başlatılmadı</SubcoreScannerNotInit>
   <!-- EN: Waiting for ingredients -->
-  <SubcoreScannerRequiresIngredients>malzemeler bekleniyor</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerRequiresIngredients>Malzemeler bekleniyor</SubcoreScannerRequiresIngredients>
   <!-- EN: Occupied -->
-  <SubcoreScannerOccupied>İşgal edilmiş</SubcoreScannerOccupied>
+  <SubcoreScannerOccupied>Dolu</SubcoreScannerOccupied>
   <!-- EN: Enter {0} -->
-  <EnterSubcoreScanner>{0}'e gir</EnterSubcoreScanner>
+  <EnterSubcoreScanner>{0} içine gir</EnterSubcoreScanner>
 
   <!-- EN: Breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeed>{BABY_labelShort} emzirme</BabyCareBreastfeed>
+  <BabyCareBreastfeed>{BABY_labelShort} emzir</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
   <BabyCareBreastfeedUnable>{BABY_labelShort} emzirilemiyor</BabyCareBreastfeedUnable>
   <!-- EN: No baby-edible food -->
-  <NoBabyFood>Bebeklerin yiyebileceği yiyecek yok</NoBabyFood>
+  <NoBabyFood>Bebek yemeği yok</NoBabyFood>
 
   <!-- EN: play need full -->
-  <CannotInteractBabyPlayFull>oyun ihtiyacı tam</CannotInteractBabyPlayFull>
+  <CannotInteractBabyPlayFull>Oyun ihtiyacı tam</CannotInteractBabyPlayFull>
 
   <!-- EN: Feed on {PAWN_nameDef} -->
-  <BloodfeedOn>{PAWN_nameDef}' beslen</BloodfeedOn>
+  <BloodfeedOn>{PAWN_nameDef} üzerinden beslen</BloodfeedOn>
   <!-- EN: Cannot feed on {PAWN_nameDef} -->
   <CannotBloodfeedOn>{PAWN_nameDef} ile beslenemez</CannotBloodfeedOn>
   <!-- EN: Not enough blood. -->
-  <CannotFeedOnWouldKill>Yeterli kan yok</CannotFeedOnWouldKill>
+  <CannotFeedOnWouldKill>Yeterli kan yok.</CannotFeedOnWouldKill>
 
   <!-- BreastfeedFailReason strings-->
   <!-- EN: {MOM_labelShort} does not have enough milk -->
-  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort}'nin yeterli sütü yok</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} kolonistinin yeterli sütü yok</BreastfeedFailReason_MomNotEnoughMilk>
   <!-- EN: {MOM_labelShort} cannot breastfeed right now -->
   <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} şu anda emziremiyor</BreastfeedFailReason_MomInMentalState>
   <!-- EN: {BABY_labelShort} is too full to suckle -->
@@ -122,11 +122,11 @@
   <!-- EN: {MOM_labelShort} is forbidden to {HAULER_labelShort} -->
   <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort}, {HAULER_labelShort} için yasaktır</BreastfeedFailReason_MomForbiddenToHauler>
   <!-- EN: {MOM_labelShort} can breastfeed {BABY_labelShort} without help -->
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}, {BABY_labelShort}'u yardım almadan emzirebilir</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}, {BABY_labelShort} bebeği yardım almadan emzirebilir</BreastfeedFailReason_MomIsMobile>
   <!-- EN: {HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}, {BABY_labelShort}'dan {MOM_labelShort}'a gidemez</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}, {BABY_labelShort} ile {MOM_labelShort} arasında gidip gelemez</BreastfeedFailReason_HaulerCannotReachMom>
   <!-- EN: {HAULER_labelShort} cannot reach {BABY_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}, {BABY_labelShort}'a erişemez</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}, {BABY_labelShort} bebeğe erişemez</BreastfeedFailReason_HaulerCannotReachBaby>
   <!-- EN: No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort} -->
   <BreastfeedFailReason_NoMomsAssignedToBaby>{BABY_labelShort} için emziren {BABY_factionPawnsPlural} atanmamış</BreastfeedFailReason_NoMomsAssignedToBaby>
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
